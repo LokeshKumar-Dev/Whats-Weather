@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/Whats-Weather/static/js/main.59213167.chunk.js",
+    "main.js.map": "/Whats-Weather/static/js/main.59213167.chunk.js.map",
+    "runtime-main.js": "/Whats-Weather/static/js/runtime-main.2d4d9aba.js",
+    "runtime-main.js.map": "/Whats-Weather/static/js/runtime-main.2d4d9aba.js.map",
+    "static/css/2.bd5a7b49.chunk.css": "/Whats-Weather/static/css/2.bd5a7b49.chunk.css",
+    "static/js/2.18911bfc.chunk.js": "/Whats-Weather/static/js/2.18911bfc.chunk.js",
+    "static/js/2.18911bfc.chunk.js.map": "/Whats-Weather/static/js/2.18911bfc.chunk.js.map",
+    "index.html": "/Whats-Weather/index.html",
+    "precache-manifest.af4a134ccf613fc2b04e368e8edb97c9.js": "/Whats-Weather/precache-manifest.af4a134ccf613fc2b04e368e8edb97c9.js",
+    "service-worker.js": "/Whats-Weather/service-worker.js",
+    "static/css/2.bd5a7b49.chunk.css.map": "/Whats-Weather/static/css/2.bd5a7b49.chunk.css.map",
+    "static/js/2.18911bfc.chunk.js.LICENSE.txt": "/Whats-Weather/static/js/2.18911bfc.chunk.js.LICENSE.txt",
+    "static/media/weather-icons.css": "/Whats-Weather/static/media/weathericons-regular-webfont.ed0943f2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d4d9aba.js",
+    "static/css/2.bd5a7b49.chunk.css",
+    "static/js/2.18911bfc.chunk.js",
+    "static/js/main.59213167.chunk.js"
+  ]
+}
